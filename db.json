@@ -1,0 +1,78 @@
+{
+  "psychologists":[
+    {
+      "ID_Psychologist": 1,
+      "Name": "Ana",
+      "LastName": "García",
+      "photo": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/442649e9-164c-45b7-a58d-65146e0b886e"
+    },
+    {
+      "ID_Psychologist": 2,
+      "Name": "Juan",
+      "LastName": "Martínez",
+      "photo": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/3d6261f4-4d5f-4475-9216-a7658ac4719f"
+    },
+    {
+      "ID_Psychologist": 3,
+      "Name": "María",
+      "LastName": "López",
+      "photo": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/82af9c27-f11b-43d4-8ca5-4a1f8ac9ce85"
+    },
+    {
+      "ID_Psychologist": 4,
+      "Name": "Carlos",
+      "LastName": "Rodríguez",
+      "photo": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/5bbf6d9b-9b43-4f0e-9d45-d3a2d48c4415"
+    },
+    {
+      "ID_Psychologist": 5,
+      "Name": "Laura",
+      "LastName": "Pérez",
+      "photo": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/5a2b9aa6-c2f2-40cb-9307-9f316f58eae7"
+    },
+    {
+      "ID_Psychologist": 6,
+      "Name": "Ramiro",
+      "LastName": "Pérez",
+      "photo": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/ac72b4e2-b88d-4869-8aea-17d772b466ea"
+    }
+  ],
+  "patients":[
+    {
+      "ID_Patient": 1,
+      "Name": "Pedro",
+      "LastName": "Gómez",
+      "photo": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/ac0860ec-a6b3-4aa4-adb1-d18c0cfd5876"
+    },
+    {
+      "ID_Patient": 2,
+      "Name": "Sofía",
+      "LastName": "Hernández",
+      "photo": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/c115d11e-3368-4a3d-83b4-2e84635c3258"
+    },
+    {
+      "ID_Patient": 3,
+      "Name": "Manuel",
+      "LastName": "Díaz",
+      "photo": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/2d876353-abe7-402c-b73c-b2ce89565c62"
+    },
+    {
+      "ID_Patient": 4,
+      "Name": "Elena",
+      "LastName": "Martín",
+      "photo": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/2c094efc-bd23-4ad5-bf56-af71b02a8f9e"
+    },
+    {
+      "ID_Patient": 5,
+      "Name": "Julia",
+      "LastName": "López",
+      "photo": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/65fb0c44-ba9f-4bed-b144-fc3022b5e65a"
+    },
+    {
+      "ID_Patient": 5,
+      "Name": "Romina",
+      "LastName": "Carrasco",
+      "photo": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/a0182f87-c4e1-4bb7-99ce-652ea93d830c"
+    }
+  ]
+}
