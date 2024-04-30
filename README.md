@@ -1,0 +1,1 @@
+# mindcare-db.json
