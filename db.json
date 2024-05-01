@@ -69,10 +69,28 @@
       "photo": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/65fb0c44-ba9f-4bed-b144-fc3022b5e65a"
     },
     {
-      "ID_Patient": 5,
+      "ID_Patient": 6,
       "Name": "Romina",
       "LastName": "Carrasco",
       "photo": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/a0182f87-c4e1-4bb7-99ce-652ea93d830c"
-    }
+    },
+    {
+      "ID_Patient": 7,
+      "Name": "Julio",
+      "LastName": "Velasquez",
+      "photo": "https://github.com/aksoonie/mindcare-db/assets/134560396/cd2f5222-79bc-4e1a-8af0-f4214cdf5c28"
+    },
+    {
+      "ID_Patient": 8,
+      "Name": "Clara",
+      "LastName": "Angeles",
+      "photo": "https://github.com/aksoonie/mindcare-db/assets/134560396/0f5b4eab-2c2d-4d8d-b0fb-c177328be624"
+    },
+    {
+      "ID_Patient": 9,
+      "Name": "Maria",
+      "LastName": "Del condor",
+      "photo": "https://github.com/aksoonie/mindcare-db/assets/134560396/fb1878f6-9fe3-4b32-9f5e-7e3f8c125f2e"
+    },
   ]
 }
